@@ -1,6 +1,10 @@
 # Heart Disease Analysis 
 ## Codecademy Bootcamp - Applied Data Science with Python
 
+![alt text](image-url)
+
+
+
 ## Project Overview
 This project investigates patient data from the Cleveland Clinic Foundation to identify factors associated with heart disease. Using statistical analysis and data visualization, we explored how clinical, metabolic, and exercise-related variables relate to heart disease outcomes.
 
