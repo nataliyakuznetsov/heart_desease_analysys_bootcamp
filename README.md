@@ -1,7 +1,7 @@
 # Heart Disease Analysis 
 ## Codecademy Bootcamp - Applied Data Science with Python
 
-![alt text](image-url)
+![alt text](images/title.png)
 
 
 
