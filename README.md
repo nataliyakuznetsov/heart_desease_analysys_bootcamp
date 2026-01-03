@@ -74,5 +74,5 @@ The dataset contains information on 303 patients, including the following variab
 ---
 
 ## Author
-**Natasha** – Data Science Enthusiast and Python Developer  
+**Nataliya Kuznetsov** 
 
